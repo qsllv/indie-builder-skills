@@ -1,0 +1,4 @@
+interface:
+  display_name: "Landing Page Design Review"
+  short_description: "Design and audit clearer landing pages."
+  default_prompt: "Use $landing-page-design-review to design or audit a product landing page for clarity, perceived value, proof, and conversion."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Analytics And Feedback Loop"
+  short_description: "Plan metrics and feedback loops."
+  default_prompt: "Use $analytics-and-feedback-loop to plan activation metrics, product events, feedback collection, and iteration decisions after launch."

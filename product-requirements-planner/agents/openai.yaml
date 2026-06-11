@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Requirements Planner"
+  short_description: "Turn product ideas into scoped PRDs."
+  default_prompt: "Use $product-requirements-planner to turn a product idea into a practical MVP PRD, user flow, scope, and acceptance criteria."

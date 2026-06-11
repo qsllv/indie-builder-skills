@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Design Principles"
+  short_description: "Guide product UX decisions in code."
+  default_prompt: "Use $product-design-principles to design or review product UX, workflows, states, and implementation decisions while building software."

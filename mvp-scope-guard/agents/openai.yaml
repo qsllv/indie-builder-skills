@@ -1,0 +1,4 @@
+interface:
+  display_name: "MVP Scope Guard"
+  short_description: "Cut product scope to ship faster."
+  default_prompt: "Use $mvp-scope-guard to review a product plan or feature list and reduce it to a focused MVP scope."

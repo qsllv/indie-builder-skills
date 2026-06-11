@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Copy And Microcopy"
+  short_description: "Write clear in-product copy."
+  default_prompt: "Use $product-copy-and-microcopy to write clear product UI copy, empty states, errors, confirmations, onboarding, and upgrade prompts."

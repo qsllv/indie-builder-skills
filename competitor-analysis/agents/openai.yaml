@@ -1,0 +1,4 @@
+interface:
+  display_name: "Competitor Analysis"
+  short_description: "Analyze competitors for product strategy."
+  default_prompt: "Use $competitor-analysis to compare competitors, positioning, pricing, feature boundaries, reviews, and differentiation opportunities."

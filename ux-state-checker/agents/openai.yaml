@@ -1,0 +1,4 @@
+interface:
+  display_name: "UX State Checker"
+  short_description: "Find missing product UI states."
+  default_prompt: "Use $ux-state-checker to inspect a product feature for missing empty, loading, error, success, permission, and edge states."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "User Flow Designer"
+  short_description: "Design complete user flows."
+  default_prompt: "Use $user-flow-designer to design complete user flows, screens, states, decision points, and edge paths before implementation."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Coding Review"
+  short_description: "Review AI-written code safely."
+  default_prompt: "Use $ai-coding-review to review AI-generated code changes for bugs, scope creep, missing states, security risks, and verification gaps."

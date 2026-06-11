@@ -1,0 +1,4 @@
+interface:
+  display_name: "Feature Spec To Code Plan"
+  short_description: "Convert specs into coding plans."
+  default_prompt: "Use $feature-spec-to-code-plan to convert a feature request into a concrete implementation plan, files, data changes, states, and tests."

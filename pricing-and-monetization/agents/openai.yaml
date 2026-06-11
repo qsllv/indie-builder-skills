@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pricing And Monetization"
+  short_description: "Design practical pricing models."
+  default_prompt: "Use $pricing-and-monetization to design pricing, packaging, trials, free limits, upgrade triggers, and monetization strategy for an indie product."
