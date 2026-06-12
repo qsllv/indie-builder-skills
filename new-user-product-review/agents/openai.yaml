@@ -1,0 +1,4 @@
+interface:
+  display_name: "New User Product Review"
+  short_description: "Review products from a first-time user perspective."
+  default_prompt: "Use $new-user-product-review to review this product page or flow from the perspective of an ordinary first-time user and identify confusion, friction, unclear copy, and practical improvements."

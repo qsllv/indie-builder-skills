@@ -30,6 +30,7 @@ These skills turn repeated product-development decisions into reusable workflows
 ### Product Design
 
 - `product-design-principles`: Guide product UX decisions while building real software.
+- `new-user-product-review`: Review product pages and flows from a first-time user perspective to find confusion, friction, unclear copy, and blockers to first value.
 - `ux-state-checker`: Check missing product states such as empty, loading, error, success, permission, and retry.
 - `product-copy-and-microcopy`: Write product UI copy for buttons, errors, empty states, confirmations, onboarding, and upgrade prompts.
 
@@ -75,7 +76,7 @@ For a new indie product:
 1. Use `product-requirements-planner` to clarify the idea.
 2. Use `mvp-scope-guard` to cut unnecessary scope.
 3. Use `user-flow-designer` to define the first-value path.
-4. Use `product-design-principles` and `ux-state-checker` while implementing.
+4. Use `new-user-product-review`, `product-design-principles`, and `ux-state-checker` while implementing.
 5. Use `feature-spec-to-code-plan` before large code changes.
 6. Use `ai-coding-review` after AI-generated code changes.
 7. Use `landing-page-design-review` for the public page.
